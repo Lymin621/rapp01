@@ -1,5 +1,16 @@
 .headerCom {background-color: red;}
 
+.bodyCom{
+  width: 80%;
+  margin: 0 auto;
+  background-color: blue;
+  color: white;
+}
+
+.footerCom{
+  background-color: yellow;
+}
+
 .App {
   text-align: center;
 }
